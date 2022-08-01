@@ -13,7 +13,7 @@ const ServiceSection = () => {
                         <p className="">dignissimos qui mollitia quidem et facere tempore ut officia</p>
                     </div>
                     <a 
-                        href="https://forms.gle/isHEjDkVZd9zS2VeA"
+                        href="https://forms.gle/EiU9aootmhH4Emyf6"
                         target="_blank"
                         rel="noopener"
                         className="text-center border border-white bg-transaparent text-white hover:bg-white hover:text-brown1 font-medium w-48 py-2 rounded-3xl tracking-wider mt-3"

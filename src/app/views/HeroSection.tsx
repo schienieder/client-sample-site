@@ -9,7 +9,7 @@ const HeroSection = () => {
                     <p className=" font-normal">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     <p className="font-normal -mt-3">Quisque nisl eros, pulvinar facilisis justo mollis</p>
                     <a
-                        href="https://forms.gle/isHEjDkVZd9zS2VeA"
+                        href="https://forms.gle/EiU9aootmhH4Emyf6"
                         target="_blank"
                         rel="noopener" 
                         className="self-start text-center bg-blue-600 hover:bg-blue-500 text-white w-48 py-2 rounded-3xl font-medium tracking-wider mt-5"
